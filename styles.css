@@ -14,24 +14,7 @@
     background-image: linear-gradient(315deg, #637081 0%, #7c98b3 74%);
 
   }
-  header{
-      font-family:'Big Shoulders Inline Display', cursive; 
-      font-size: 45px;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-
-  }
-@media only screen and (min-width: 768px){
-    header{
-      font-size: 5rem;
-      top: 25%;
-    }
-  }
+  
   .memory-game {
     width: 640px;
     height: 640px;
